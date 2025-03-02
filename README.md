@@ -22,8 +22,8 @@ Built using Unity 2022.3.45f
 
 ## Future Development
 
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
+Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Nobel Solomon
